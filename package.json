@@ -1,0 +1,19 @@
+{
+  "name": "react-typescript-starter",
+  "description": "A React TypeScript based starter project",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matijs/react-typescript-starter.git"
+  },
+  "keywords": [
+    "React",
+    "TypeScript",
+    "Starter"
+  ],
+  "author": "Matijs <matijs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matijs/react-typescript-starter/issues"
+  },
+  "homepage": "https://github.com/matijs/react-typescript-starter#readme"
+}
