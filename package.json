@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/matijs/react-typescript-starter/issues"
   },
-  "homepage": "https://github.com/matijs/react-typescript-starter#readme"
+  "homepage": "https://github.com/matijs/react-typescript-starter#readme",
+  "dependencies": {
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
 }
