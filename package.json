@@ -11,7 +11,9 @@
     "Starter"
   ],
   "scripts": {
-    "start": "parcel ./src/index.html"
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html",
+    "lint": "eslint --ext ts,tsx src"
   },
   "author": "Matijs <matijs@gmail.com>",
   "license": "MIT",
