@@ -36,6 +36,6 @@
     "eslint-plugin-react": "^7.20.3",
     "parcel-bundler": "^1.12.4",
     "prettier": "^2.0.5",
-    "typescript": "^3.9.6"
+    "typescript": "^3.9.7"
   }
 }
